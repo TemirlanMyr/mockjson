@@ -1,33 +1,22 @@
 {
-  "cars": [
+  "posts": [
     {
       "id": 1,
-      "model": "Toyota RAV4",
-      "price": "$27,225"
+      "title": "Post 1",
+      "description": "this is description 1"
     },
     {
       "id": 2,
-      "model": "Honda CR-V",
-      "price": "$26,470"
+      "title": "Post 2",
+      "description": "this is description 2"
     },
     {
       "id": 3,
-      "model": "Mazda CX-5",
-      "price": "26,370"
-    },
-    {
-      "id": 4,
-      "model": "Nissan Rogue",
-      "price": "$26,745"
-    },
-    {
-      "id": 5,
-      "model": "Subaru Forester",
-      "price": "$25,845"
+      "title": "Post 3",
+      "description": "this is description 3"
     }
-    
   ],
-  "bikes": [
+  "comments": [
     {
       "id": 1,
       "body": "comment 1",
@@ -39,7 +28,7 @@
       "postId": 1
     }
   ],
-  "planes": {
+  "profile": {
     "name": "Profile 1"
   }
 }
